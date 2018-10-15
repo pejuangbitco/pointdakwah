@@ -11,4 +11,8 @@ class Home extends MY_Controller
 		$this->load->view('portal/templates/layout');
 	}
 
+	public function postingan() {
+		$this->load->view('portal/templates/layout-single-post');
+	}
+
 }
