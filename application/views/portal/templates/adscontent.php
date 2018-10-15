@@ -10,8 +10,7 @@
                         </div>
                         <div id="breakingNewsTicker" class="ticker">
                             <ul>
-                                <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></li>
-                                <li><a href="#">Welcome to Colorlib Family.</a></li>
+                                <li><a href="#">Seringnya terjadi gempa pertanda kiamat?</a></li>
                                 <li><a href="#">Nam eu metus sitsit amet, consec!</a></li>
                             </ul>
                         </div>
@@ -24,9 +23,9 @@
                         </div>
                         <div id="internationalTicker" class="ticker">
                             <ul>
-                                <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></li>
-                                <li><a href="#">Welcome to Colorlib Family.</a></li>
-                                <li><a href="#">Nam eu metus sitsit amet, consec!</a></li>
+                                <li><a href="#">Maraknya kasus LGBT, apa kata Rasulullah dalam hadist-Nya?</a></li>
+                                <li><a href="#">Benarkah <i>Khabib Nurmagomedov</i> sedang berdakwah di atas ring MMA?</a></li>
+                                <li><a href="#">Saudara muslim Eropa memerangi Islamophobia</a></li>
                             </ul>
                         </div>
                     </div>

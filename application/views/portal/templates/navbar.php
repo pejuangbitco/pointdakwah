@@ -63,25 +63,34 @@
                             <div class="classynav">
                                 <ul>
                                     <li class="active"><a href="index.html">Home</a></li>
-                                    <li><a href="#">Pages</a>
+                                    <li><a href="#">Landasan Agama</a>
                                         <ul class="dropdown">
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="catagories-post.html">Catagories</a></li>
-                                            <li><a href="single-post.html">Single Articles</a></li>
-                                            <li><a href="about.html">About Us</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li><a href="#">Dropdown</a>
-                                                <ul class="dropdown">
-                                                    <li><a href="index.html">Home</a></li>
-                                                    <li><a href="catagories-post.html">Catagories</a></li>
-                                                    <li><a href="single-post.html">Single Articles</a></li>
-                                                    <li><a href="about.html">About Us</a></li>
-                                                    <li><a href="contact.html">Contact</a></li>
-                                                </ul>
-                                            </li>
+                                            <li><a href="index.html">Al-Qur'an</a></li>
+                                            <li><a href="catagories-post.html">Hadist</a></li>
+                                            <li><a href="single-post.html">Tafsir</a></li>
+                                            <li><a href="about.html">Manhaj</a></li>
+                                            <li><a href="contact.html">Aqidah</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="#">Mega Menu</a>
+                                    <li><a href="">Fiqh dan Muammalah</a>
+                                        <ul class="dropdown">
+                                            <li><a href="">Kaidah Fiqh</a></li>
+                                            <li><a href="">Doa dan Zikr</a></li>
+                                            <li><a href="">Ramadhan</a></li>
+                                            <li><a href="">Dakwah</a></li>
+                                            <hr>
+                                            <li><a href="">Internasional</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="">Penyejuk Hati</a>
+                                        <ul class="dropdown">
+                                            <li><a href="">Info Kajian</a></li>
+                                            <li><a href="">Pesan Kebaikan</a></li>
+                                            <hr>
+                                            <li><a href="">Download <i>Wallpaper</i> Islami </a></li>
+                                        </ul>
+                                    </li>
+                                    <!-- <li><a href="#">Mega Menu</a>
                                         <div class="megamenu">
                                             <ul class="single-mega cn-col-4">
                                                 <li class="title">Catagories</li>
@@ -107,9 +116,9 @@
                                                 <li><a href="about.html">About Us</a></li>
                                                 <li><a href="contact.html">Contact</a></li>
                                             </ul>
-                                            <div class="single-mega cn-col-4">
+                                            <div class="single-mega cn-col-4"> -->
                                                 <!-- Single Featured Post -->
-                                                <div class="single-blog-post small-featured-post d-flex">
+                                                <!-- <div class="single-blog-post small-featured-post d-flex">
                                                     <div class="post-thumb">
                                                         <a href="#"><img src="img/bg-img/23.jpg" alt=""></a>
                                                     </div>
@@ -122,10 +131,10 @@
                                                             <p class="post-date"><span>7:00 AM</span> | <span>April 14</span></p>
                                                         </div>
                                                     </div>
-                                                </div>
+                                                </div> -->
 
                                                 <!-- Single Featured Post -->
-                                                <div class="single-blog-post small-featured-post d-flex">
+                                                <!-- <div class="single-blog-post small-featured-post d-flex">
                                                     <div class="post-thumb">
                                                         <a href="#"><img src="img/bg-img/24.jpg" alt=""></a>
                                                     </div>
@@ -141,15 +150,15 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </li>
-                                    <li><a href="#">Politics</a></li>
+                                    </li> -->
+                                    <!-- <li><a href="#">Politics</a></li>
                                     <li><a href="#">Breaking News</a></li>
                                     <li><a href="#">Business</a></li>
                                     <li><a href="#">Technology</a></li>
                                     <li><a href="#">Health</a></li>
                                     <li><a href="#">Travel</a></li>
                                     <li><a href="#">Sports</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact.html">Contact</a></li> -->
                                 </ul>
                             </div>
                             <!-- Nav End -->

@@ -9,15 +9,15 @@
                         <div class="col-12 col-lg-7">
                             <div class="single-blog-post featured-post">
                                 <div class="post-thumb">
-                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/16.jpg" alt=""></a>
+                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/33.jpg" alt=""></a>
                                 </div>
                                 <div class="post-data">
-                                    <a href="#" class="post-catagory">Finance</a>
+                                    <a href="#" class="post-catagory">Dakwah</a>
                                     <a href="#" class="post-title">
-                                        <h6>Financial news: A new company is born today at the stock market</h6>
+                                        <h6>Benarkah <i>Khabib Nurmagomedov</i> sedang berdakwah di atas ring MMA?</h6>
                                     </a>
                                     <div class="post-meta">
-                                        <p class="post-author">By <a href="#">Christinne Williams</a></p>
+                                        <p class="post-author">By <a href="#">Muhammad Jaihan Syah</a></p>
                                         <p class="post-excerp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales placerat. Sed varius leo ac leo fermentum, eu cursus nunc maximus. Integer convallis nisi nibh, et ornare neque ullamcorper ac. Nam id congue lectus, a venenatis massa. Maecenas justo libero, vulputate vel nunc id, blandit feugiat sem. </p>
                                         <!-- Post Like & Post Comment -->
                                         <div class="d-flex align-items-center">
@@ -33,13 +33,13 @@
                             <!-- Single Featured Post -->
                             <div class="single-blog-post featured-post-2">
                                 <div class="post-thumb">
-                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/17.jpg" alt=""></a>
+                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/34.jpg" alt=""></a>
                                 </div>
                                 <div class="post-data">
-                                    <a href="#" class="post-catagory">Finance</a>
+                                    <a href="#" class="post-catagory">Internasional</a>
                                     <div class="post-meta">
                                         <a href="#" class="post-title">
-                                            <h6>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales placerat. Sed varius leo ac...</h6>
+                                            <h6>Saudara muslim Eropa memerangi Islamophobia</h6>
                                         </a>
                                         <!-- Post Like & Post Comment -->
                                         <div class="d-flex align-items-center">
