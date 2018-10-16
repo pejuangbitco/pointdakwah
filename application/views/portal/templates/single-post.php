@@ -7,21 +7,24 @@
 
                         <!-- Single Featured Post -->
                         <div class="single-blog-post featured-post single-post">
-                            <div class="post-thumb">
-                                <a href="#"><img src="img/bg-img/25.jpg" alt=""></a>
-                            </div>
+                        <div class="post-thumb">
+                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/33.jpg" alt=""></a>
+                                </div>
                             <div class="post-data">
-                                <a href="#" class="post-catagory">Finance</a>
+                                <a href="#" class="post-catagory">Dakwah</a>
                                 <a href="#" class="post-title">
-                                    <h6>Financial news: A new company is born today at the stock market</h6>
+                                    <h6>Dakwah Ala Khabib <i>Nurmagedov</i> </h6>
                                 </a>
-                                <div class="post-meta">
-                                    <p class="post-author">By <a href="#">Christinne Williams</a></p>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales placerat. Sed varius leo ac leo fermentum, eu cursus nunc maximus. Integer convallis nisi nibh, et ornare neque ullamcorper ac. Nam id congue lectus, a venenatis massa. Maecenas justo libero, vulputate vel nunc id, blandit feugiat sem.</p>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque consectetur, purus imperdiet volutpat tincidunt, eros sem mollis quam, ut placerat urna neque at massa. Proin vitae pulvinar justo. Donec vel placerat enim, at ultricies risus. In posuere luctus sem, ac dapibus felis semper quis. Integer ex ante, semper at velit nec, ultrices aliquet diam. Donec gravida non metus blandit facilisis. Cras tincidunt, lorem aliquam molestie eleifend, libero dui volutpat dui, nec sodales massa libero ut metus. Mauris pretium elit ut dapibus consequat. Nam ut lorem nec sem dignissim gravida. Duis fringilla, augue eget lacinia tincidunt, neque leo maximus sem, sed tristique enim orci id quam.</p>
-                                    <p>Donec turpis erat, scelerisque id euismod sit amet, fermentum vel dolor. Nulla facilisi. Sed pellentesque lectus et accumsan aliquam. Fusce lobortis cursus quam, id mattis sapien. Aliquam erat volutpat. Aliquam placerat, est quis sagittis tincidunt, ipsum eros posuere mi, ut finibus quam sem eget ex. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec commodo quis enim ac auctor. Ut et mollis felis, sit amet ultricies est. Suspendisse sed faucibus tortor.</p>
-                                    <a href="#" class="related--post">Related: Facebook announces changes to combat election meddling</a>
-                                    <p>Donec turpis erat, scelerisque id euismod sit amet, fermentum vel dolor. Nulla facilisi. Sed pellentesque lectus et accu msan aliquam. Fusce lobortis cursus quam, id mattis sapien. Aliquam erat volutpat. Aliquam placerat, est quis sagi ttis tincidunt, ipsum eros posuere mi, ut finibus quam sem eget ex. Interdum et malesuada fames ac ante ipsum pr imis in faucibus. Donec commodo quis enim ac auctor. Ut et mollis felis, sit amet ultricies est. Suspendisse sed faucibus tortor. </p>
+                                <div class="post-meta" id="post" style="text-align: justify">
+                                    <p class="post-author">By <a href="#">Muhammad Jaihan Syah</a></p>
+                                    <p style="text-align: justify">
+                                    <p>Nama Khabib Nurmagomedov tengah menjadi perbincangan seantero dunia usai mengalahkan Conor McGregor lewat submission pada ronde keempat dalam pertarungan gelar juara dunia kelas ringan UFC di Las Vegas, Amerika Serikat, Ahad (7/10) siang WIB. Dengan kemenangan itu Khabib memperpanjang rekor selalu menang dalam 27 laga pada ajang tarung bebas.</p> 
+                                    <p>Namun di balik kegarangannya di atas ring, pria asal Dagestan, Rusia itu merupakan pribadi yang santun dan pemeluk agama Islam yang taat. Aktivitas sehari-harinya, bahkan di atas ring dia tidak ingin lepas dari nilai-nilai Islam. Khabib selalu bangga dengan agamanya dan tak sungkan menunjukkan identitas keislamannya. Maka tak heran setiap kali merebut gelar juara dari lawannya, kalimat pertama yang keluar dari mulut Khabib adalah ucapan Alhamdulillah.</p>
+                                    <p>“Pertama yang harus katakan adalah Alhamdulillah. Tanpa Allah, kita ini bukan siapa-siapa. Tanpa Tuhan kita tidak bisa mendapatkan apa-apa,” tegas Khabib, seperti dikutip dari kanal Youtube resmi UFC.</p>
+                                    <p>Tidak hanya itu, dakwah yang dilakukan oleh petarung berjuluk the Eagle itu dikagumi oleh masyarakat dunia. Salah satunya adalah potongan video di Instagram yang memperlihatkan Khabib meminta seorang remaja membacakan ayat suci Alquran. Dalam video Khabib berada di dalam mobil, sementara anak kecil berada di luar. Anak lelaki itu pun membacakan surah Al-Waqiah dan Khabib tampak menikmati bacaan sang anak yang bagus.</p>
+                                    <p>Satu unggahan lain di Youtube menunjukkan Khabib tengah menyimak bacaan Alquran sepupunya yang masih kecil dan baru empat bulan belajar mengaji.</p>
+                                    <p>Selain itu, di akun Instagram miliknya Khabib kerap mengunggah potongan-potongan ceramah dan kutipan-kutipan dari ayat suci Alquran. Kemudian juga gambar-gambar ketika dia menunaikan ibadah umrah ke tanah suci. Terakhir dia mengunggah foto dirinya di depan bangunan suci umat Islam Ka’bah pada bulan Agustus lalu. “Aku sangat merindukan Mekkah,” tulis Khabib.</p> 
+                                    </p>
                                     <div class="newspaper-post-like d-flex align-items-center justify-content-between">
                                         <!-- Tags -->
                                         <div class="newspaper-tags d-flex">

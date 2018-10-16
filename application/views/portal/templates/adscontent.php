@@ -11,7 +11,7 @@
                         <div id="breakingNewsTicker" class="ticker">
                             <ul>
                                 <li><a href="#">Seringnya terjadi gempa pertanda kiamat?</a></li>
-                                <li><a href="#">Nam eu metus sitsit amet, consec!</a></li>
+                                <li><a href="#">Bersabarlah tanpa batas</a></li>
                             </ul>
                         </div>
                     </div>
@@ -34,7 +34,7 @@
                 <!-- Hero Add -->
                 <div class="col-12 col-lg-4">
                     <div class="hero-add">
-                        <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/hero-add.gif" alt=""></a>
+                        <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/shopee.gif" alt=""></a>
                     </div>
                 </div>
             </div>

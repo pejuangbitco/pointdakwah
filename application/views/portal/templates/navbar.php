@@ -10,7 +10,7 @@
                         <div class="top-header-content d-flex align-items-center justify-content-between">
                             <!-- Logo -->
                             <div class="logo">
-                                <a href="index.html"><img src="<?= base_url('assets/newspaper/') ?>img/core-img/logo.png" alt=""></a>
+                                <a href="index.html"><h1><span style="color: yellow;">POINT</span><span style="color: #43a047;"> DAKWAH</span></h1></a>
                             </div>
 
                             <!-- Login Search Area -->

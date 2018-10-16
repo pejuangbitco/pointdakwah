@@ -14,11 +14,11 @@
                                 <div class="post-data">
                                     <a href="#" class="post-catagory">Dakwah</a>
                                     <a href="#" class="post-title">
-                                        <h6>Benarkah <i>Khabib Nurmagomedov</i> sedang berdakwah di atas ring MMA?</h6>
+                                        <h6>Berdakwah Ala <i>Khabib Nurmagomedov</i></h6>
                                     </a>
                                     <div class="post-meta">
                                         <p class="post-author">By <a href="#">Muhammad Jaihan Syah</a></p>
-                                        <p class="post-excerp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales placerat. Sed varius leo ac leo fermentum, eu cursus nunc maximus. Integer convallis nisi nibh, et ornare neque ullamcorper ac. Nam id congue lectus, a venenatis massa. Maecenas justo libero, vulputate vel nunc id, blandit feugiat sem. </p>
+                                        <p class="post-excerp">Nama Khabib Nurmagomedov tengah menjadi perbincangan seantero dunia usai mengalahkan Conor McGregor lewat submission pada ronde keempat dalam pertarungan gelar juara dunia kelas ringan UFC di Las Vegas, Amerika Serikat, Ahad (7....</p>
                                         <!-- Post Like & Post Comment -->
                                         <div class="d-flex align-items-center">
                                             <a href="#" class="post-like"><img src="img/core-img/like.png" alt=""> <span>392</span></a>
@@ -53,13 +53,13 @@
                             <!-- Single Featured Post -->
                             <div class="single-blog-post featured-post-2">
                                 <div class="post-thumb">
-                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/18.jpg" alt=""></a>
+                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/35.jpg" alt=""></a>
                                 </div>
                                 <div class="post-data">
-                                    <a href="#" class="post-catagory">Finance</a>
+                                    <a href="#" class="post-catagory">Pesan Kebaikan</a>
                                     <div class="post-meta">
                                         <a href="#" class="post-title">
-                                            <h6>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales placerat. Sed varius leo ac...</h6>
+                                            <h6>Bersabarlah Tanpa Batas</h6>
                                         </a>
                                         <!-- Post Like & Post Comment -->
                                         <div class="d-flex align-items-center">
@@ -77,13 +77,13 @@
                     <!-- Single Featured Post -->
                     <div class="single-blog-post small-featured-post d-flex">
                         <div class="post-thumb">
-                            <a href="#"><img src="img/bg-img/19.jpg" alt=""></a>
+                            <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/36.jpg" alt=""></a>
                         </div>
                         <div class="post-data">
-                            <a href="#" class="post-catagory">Finance</a>
+                            <a href="#" class="post-catagory">Doa dan Zikr</a>
                             <div class="post-meta">
                                 <a href="#" class="post-title">
-                                    <h6>Pellentesque mattis arcu massa, nec fringilla turpis eleifend id.</h6>
+                                    <h6>Amalan Pembuka Pintu Rezeki</h6>
                                 </a>
                                 <p class="post-date"><span>7:00 AM</span> | <span>April 14</span></p>
                             </div>
@@ -93,13 +93,13 @@
                     <!-- Single Featured Post -->
                     <div class="single-blog-post small-featured-post d-flex">
                         <div class="post-thumb">
-                            <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/20.jpg" alt=""></a>
+                            <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/37.jpg" alt=""></a>
                         </div>
                         <div class="post-data">
-                            <a href="#" class="post-catagory">Politics</a>
+                            <a href="#" class="post-catagory">Pesan Kebaikan</a>
                             <div class="post-meta">
                                 <a href="#" class="post-title">
-                                    <h6>Sed a elit euismod augue semper congue sit amet ac sapien.</h6>
+                                    <h6>Menjadi Muslim Produktif Setiap Hari</h6>
                                 </a>
                                 <p class="post-date"><span>7:00 AM</span> | <span>April 14</span></p>
                             </div>
@@ -148,22 +148,6 @@
                             <div class="post-meta">
                                 <a href="#" class="post-title">
                                     <h6>Pellentesque mattis arcu massa, nec fringilla turpis eleifend id.</h6>
-                                </a>
-                                <p class="post-date"><span>7:00 AM</span> | <span>April 14</span></p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Single Featured Post -->
-                    <div class="single-blog-post small-featured-post d-flex">
-                        <div class="post-thumb">
-                            <a href="#"><img src="img/bg-img/24.jpg" alt=""></a>
-                        </div>
-                        <div class="post-data">
-                            <a href="#" class="post-catagory">Politics</a>
-                            <div class="post-meta">
-                                <a href="#" class="post-title">
-                                    <h6>Augue semper congue sit amet ac sapien. Fusce consequat.</h6>
                                 </a>
                                 <p class="post-date"><span>7:00 AM</span> | <span>April 14</span></p>
                             </div>
