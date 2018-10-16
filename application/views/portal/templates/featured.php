@@ -13,7 +13,7 @@
                                 </div>
                                 <div class="post-data">
                                     <a href="#" class="post-catagory">Dakwah</a>
-                                    <a href="#" class="post-title">
+                                    <a href="<?= base_url();?>home/postingan" class="post-title">
                                         <h6>Berdakwah Ala <i>Khabib Nurmagomedov</i></h6>
                                     </a>
                                     <div class="post-meta">
@@ -21,8 +21,8 @@
                                         <p class="post-excerp">Nama Khabib Nurmagomedov tengah menjadi perbincangan seantero dunia usai mengalahkan Conor McGregor lewat submission pada ronde keempat dalam pertarungan gelar juara dunia kelas ringan UFC di Las Vegas, Amerika Serikat, Ahad (7....</p>
                                         <!-- Post Like & Post Comment -->
                                         <div class="d-flex align-items-center">
-                                            <a href="#" class="post-like"><img src="img/core-img/like.png" alt=""> <span>392</span></a>
-                                            <a href="#" class="post-comment"><img src="img/core-img/chat.png" alt=""> <span>10</span></a>
+                                            <a href="#" class="post-like"><img src="<?= base_url();?>assets/newspaper/img/core-img/like.png" alt=""> <span>392</span></a>
+                                            <a href="#" class="post-comment"><img src="<?= base_url();?>assets/newspaper/img/core-img/chat.png" alt=""> <span>10</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -43,8 +43,8 @@
                                         </a>
                                         <!-- Post Like & Post Comment -->
                                         <div class="d-flex align-items-center">
-                                            <a href="#" class="post-like"><img src="img/core-img/like.png" alt=""> <span>392</span></a>
-                                            <a href="#" class="post-comment"><img src="img/core-img/chat.png" alt=""> <span>10</span></a>
+                                            <a href="#" class="post-like"><img src="<?= base_url();?>assets/newspaper/img/core-img/like.png" alt=""> <span>392</span></a>
+                                            <a href="#" class="post-comment"><img src="<?= base_url();?>assets/newspaper/img/core-img/chat.png" alt=""> <span>10</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -63,8 +63,8 @@
                                         </a>
                                         <!-- Post Like & Post Comment -->
                                         <div class="d-flex align-items-center">
-                                            <a href="#" class="post-like"><img src="img/core-img/like.png" alt=""> <span>392</span></a>
-                                            <a href="#" class="post-comment"><img src="img/core-img/chat.png" alt=""> <span>10</span></a>
+                                            <a href="#" class="post-like"><img src="<?= base_url();?>assets/newspaper/img/core-img/like.png" alt=""> <span>392</span></a>
+                                            <a href="#" class="post-comment"><img src="<?= base_url();?>assets/newspaper/img/core-img/chat.png" alt=""> <span>10</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -109,13 +109,13 @@
                     <!-- Single Featured Post -->
                     <div class="single-blog-post small-featured-post d-flex">
                         <div class="post-thumb">
-                            <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/21.jpg" alt=""></a>
+                            <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/42.jpg" alt=""></a>
                         </div>
                         <div class="post-data">
-                            <a href="#" class="post-catagory">Health</a>
+                            <a href="#" class="post-catagory">Tafsir</a>
                             <div class="post-meta">
                                 <a href="#" class="post-title">
-                                    <h6>Pellentesque mattis arcu massa, nec fringilla turpis eleifend id.</h6>
+                                    <h6>Tafsir Surat An-Najm 19-23: Ngalap Berkah Yang Salah (4)</h6>
                                 </a>
                                 <p class="post-date"><span>7:00 AM</span> | <span>April 14</span></p>
                             </div>
@@ -125,13 +125,13 @@
                     <!-- Single Featured Post -->
                     <div class="single-blog-post small-featured-post d-flex">
                         <div class="post-thumb">
-                            <a href="#"><img src="img/bg-img/22.jpg" alt=""></a>
+                            <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/38.jpg" alt=""></a>
                         </div>
                         <div class="post-data">
-                            <a href="#" class="post-catagory">Finance</a>
+                            <a href="#" class="post-catagory">Hadist</a>
                             <div class="post-meta">
                                 <a href="#" class="post-title">
-                                    <h6>Augue semper congue sit amet ac sapien. Fusce consequat.</h6>
+                                    <h6>Seringnya terjadi gempa pertanda kiamat?</h6>
                                 </a>
                                 <p class="post-date"><span>7:00 AM</span> | <span>April 14</span></p>
                             </div>
@@ -141,13 +141,13 @@
                     <!-- Single Featured Post -->
                     <div class="single-blog-post small-featured-post d-flex">
                         <div class="post-thumb">
-                            <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/23.jpg" alt=""></a>
+                            <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/43.jpg" alt=""></a>
                         </div>
                         <div class="post-data">
-                            <a href="#" class="post-catagory">Travel</a>
+                            <a href="#" class="post-catagory">Doa & Dzikr</a>
                             <div class="post-meta">
                                 <a href="#" class="post-title">
-                                    <h6>Pellentesque mattis arcu massa, nec fringilla turpis eleifend id.</h6>
+                                    <h6>Mengucapkan Tasbih, Tahmid, Takbir Setelah Shalat Wajib</h6>
                                 </a>
                                 <p class="post-date"><span>7:00 AM</span> | <span>April 14</span></p>
                             </div>

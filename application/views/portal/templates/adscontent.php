@@ -6,12 +6,13 @@
                     <!-- Breaking News Widget -->
                     <div class="breaking-news-area d-flex align-items-center">
                         <div class="news-title">
-                            <p>Breaking News</p>
+                            <p>Updated News</p>
                         </div>
                         <div id="breakingNewsTicker" class="ticker">
                             <ul>
                                 <li><a href="#">Seringnya terjadi gempa pertanda kiamat?</a></li>
                                 <li><a href="#">Bersabarlah tanpa batas</a></li>
+                                <li><a href="#">Amalan Pembuka Pintu Rezeki</a></li>
                             </ul>
                         </div>
                     </div>

@@ -10,7 +10,7 @@
                         <div class="top-header-content d-flex align-items-center justify-content-between">
                             <!-- Logo -->
                             <div class="logo">
-                                <a href="index.html"><h1><span style="color: yellow;">POINT</span><span style="color: #43a047;"> DAKWAH</span></h1></a>
+                                <a href=""><h1><span style="color: yellow;">POINT</span><span style="color: #43a047;"> DAKWAH</span></h1></a>
                             </div>
 
                             <!-- Login Search Area -->
@@ -62,7 +62,7 @@
                             <!-- Nav Start -->
                             <div class="classynav">
                                 <ul>
-                                    <li class="active"><a href="index.html">Home</a></li>
+                                    <li class="active"><a href="<?= base_url();?>home">Home</a></li>
                                     <li><a href="#">Landasan Agama</a>
                                         <ul class="dropdown">
                                             <li><a href="index.html">Al-Qur'an</a></li>
@@ -78,15 +78,20 @@
                                             <li><a href="">Doa dan Zikr</a></li>
                                             <li><a href="">Ramadhan</a></li>
                                             <li><a href="">Dakwah</a></li>
-                                            <hr>
-                                            <li><a href="">Internasional</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="">Penyejuk Hati</a>
                                         <ul class="dropdown">
                                             <li><a href="">Info Kajian</a></li>
                                             <li><a href="">Pesan Kebaikan</a></li>
-                                            <hr>
+                                        </ul>
+                                    </li>
+                                    <li><a href="">Lainnya</a>
+                                        <ul class="dropdown">
+                                            <li><a href="">Tentang Kami</a></li>
+                                            <li><a href="">Internasional</a></li>
+                                            <li><a href="">Donasi Dakwah</a></li>
+                                            <li><a href="">Sejarah Islam</a></li>
                                             <li><a href="">Download <i>Wallpaper</i> Islami </a></li>
                                         </ul>
                                     </li>

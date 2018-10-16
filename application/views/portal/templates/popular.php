@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-12 col-lg-8">
                     <div class="section-heading">
-                        <h6>Popular News</h6>
+                        <h6>Berita Populer</h6>
                     </div>
 
                     <div class="row">
@@ -13,16 +13,16 @@
                         <div class="col-12 col-md-4">
                             <div class="single-blog-post style-3">
                                 <div class="post-thumb">
-                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/12.jpg" alt=""></a>
+                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/39.jpg" alt=""></a>
                                 </div>
                                 <div class="post-data">
-                                    <a href="#" class="post-catagory">Finance</a>
+                                    <a href="#" class="post-catagory">Sejarah Islam</a>
                                     <a href="#" class="post-title">
-                                        <h6>Dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales placer. Sed varius leo ac...</h6>
+                                        <h6>Menelisik Hijrah Rasulullah SAW (Part II)</h6>
                                     </a>
                                     <div class="post-meta d-flex align-items-center">
-                                        <a href="#" class="post-like"><img src="img/core-img/like.png" alt=""> <span>392</span></a>
-                                        <a href="#" class="post-comment"><img src="img/core-img/chat.png" alt=""> <span>10</span></a>
+                                        <a href="#" class="post-like"><img src="<?= base_url();?>assets/newspaper/img/core-img/like.png" alt=""> <span>392</span></a>
+                                        <a href="#" class="post-comment"><img src="<?= base_url();?>assets/newspaper/img/core-img/chat.png" alt=""> <span>10</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -32,12 +32,12 @@
                         <div class="col-12 col-md-4">
                             <div class="single-blog-post style-3">
                                 <div class="post-thumb">
-                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/13.jpg" alt=""></a>
+                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/40.jpg" alt=""></a>
                                 </div>
                                 <div class="post-data">
-                                    <a href="#" class="post-catagory">Finance</a>
+                                    <a href="#" class="post-catagory">Dakwah</a>
                                     <a href="#" class="post-title">
-                                        <h6>Dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales placer. Sed varius leo ac...</h6>
+                                        <h6>Ciri Khas Generasi Islam Millennial, Kamu Salah Satunya?</h6>
                                     </a>
                                     <div class="post-meta d-flex align-items-center">
                                         <a href="#" class="post-like"><img src="<?= base_url('assets/newspaper/') ?>img/core-img/like.png" alt=""> <span>392</span></a>
@@ -51,35 +51,69 @@
                         <div class="col-12 col-md-4">
                             <div class="single-blog-post style-3">
                                 <div class="post-thumb">
-                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/14.jpg" alt=""></a>
+                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/41.jpg" alt=""></a>
                                 </div>
                                 <div class="post-data">
-                                    <a href="#" class="post-catagory">Finance</a>
+                                    <a href="#" class="post-catagory">Manhaj</a>
                                     <a href="#" class="post-title">
-                                        <h6>Dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales placer. Sed varius leo ac...</h6>
+                                        <h6>Keutamaan Menghadiri Majelis Ilmu Di Masjid</h6>
                                     </a>
                                     <div class="post-meta d-flex align-items-center">
-                                        <a href="#" class="post-like"><img src="img/core-img/like.png" alt=""> <span>392</span></a>
-                                        <a href="#" class="post-comment"><img src="img/core-img/chat.png" alt=""> <span>10</span></a>
+                                        <a href="#" class="post-like"><img src="<?= base_url();?>assets/newspaper/img/core-img/like.png" alt=""> <span>392</span></a>
+                                        <a href="#" class="post-comment"><img src="<?= base_url();?>assets/newspaper/img/core-img/chat.png" alt=""> <span>10</span></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Single Post -->
-                        <div class="col-12 col-md-6">
+                        <div class="col-12 col-md-4">
                             <div class="single-blog-post style-3">
                                 <div class="post-thumb">
-                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/15.jpg" alt=""></a>
+                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/43.jpg" alt=""></a>
                                 </div>
                                 <div class="post-data">
-                                    <a href="#" class="post-catagory">Finance</a>
+                                    <a href="#" class="post-catagory">Do'a & Dzikir</a>
                                     <a href="#" class="post-title">
-                                        <h6>Dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales placer. Sed varius leo ac...</h6>
+                                        <h6>Mengucapkan Tasbih, Tahmid, Takbir Setelah Shalat Wajib</h6>
                                     </a>
                                     <div class="post-meta d-flex align-items-center">
-                                        <a href="#" class="post-like"><img src="img/core-img/like.png" alt=""> <span>392</span></a>
-                                        <a href="#" class="post-comment"><img src="img/core-img/chat.png" alt=""> <span>10</span></a>
+                                        <a href="#" class="post-like"><img src="<?= base_url();?>assets/newspaper/img/core-img/like.png" alt=""> <span>392</span></a>
+                                        <a href="#" class="post-comment"><img src="<?= base_url();?>assets/newspaper/img/core-img/chat.png" alt=""> <span>10</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4">
+                            <div class="single-blog-post style-3">
+                                <div class="post-thumb">
+                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/44.jpg" alt=""></a>
+                                </div>
+                                <div class="post-data">
+                                    <a href="#" class="post-catagory">Tafsir</a>
+                                    <a href="#" class="post-title">
+                                        <h6>Derajat Mulia Penuntut Ilmu Agama</h6>
+                                    </a>
+                                    <div class="post-meta d-flex align-items-center">
+                                        <a href="#" class="post-like"><img src="<?= base_url();?>assets/newspaper/img/core-img/like.png" alt=""> <span>392</span></a>
+                                        <a href="#" class="post-comment"><img src="<?= base_url();?>assets/newspaper/img/core-img/chat.png" alt=""> <span>10</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4">
+                            <div class="single-blog-post style-3">
+                                <div class="post-thumb">
+                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/45.jpg" alt=""></a>
+                                </div>
+                                <div class="post-data">
+                                    <a href="#" class="post-catagory">Aqidah</a>
+                                    <a href="#" class="post-title">
+                                        <h6>Salah Paham tentang Memahami Tawakal</h6>
+                                    </a>
+                                    <div class="post-meta d-flex align-items-center">
+                                        <a href="#" class="post-like"><img src="<?= base_url();?>assets/newspaper/img/core-img/like.png" alt=""> <span>392</span></a>
+                                        <a href="#" class="post-comment"><img src="<?= base_url();?>assets/newspaper/img/core-img/chat.png" alt=""> <span>10</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -89,39 +123,19 @@
 
                 <div class="col-12 col-lg-4">
                     <div class="section-heading">
-                        <h6>Info</h6>
+                        <h6>Info Kajian</h6>
                     </div>
-                    <!-- Popular News Widget -->
-                    <div class="popular-news-widget mb-30">
-                        <h3>Lihat postingan: </h3>
+                    <img src="<?= base_url('assets/newspaper/') ?>img/bg-img/kajian.jpg" alt="">
 
-                        <!-- Single Popular Blog -->
-                        <div class="listustad">
-                            <a href="#">
-                                <h6><span style="color: blue;">Ustad</span> Abdul Somad</h6>
-                            </a>                            
-                        </div>
-
-                        <div class="">
-                            <a href="#">
-                                <h6><span style="color: blue;">Ustad</span> Maulana</h6>
-                            </a>                            
-                        </div>
-
-                        <div class="">
-                            <a href="#">
-                                <h6><span style="color: red;">Ustazah</span> Oki</h6>
-                            </a>                            
-                        </div>
-                    </div>
+                    <hr>
                         
 
                     <!-- Newsletter Widget -->
                     <div class="newsletter-widget">
-                        <h4>Newsletter</h4>
-                        <p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                        <h4>Berlangganan</h4>
+                        <p>Dapatkan pemberitahuan artikel harian dari kami, Insya Allah berkah</p>
                         <form action="#" method="post">
-                            <input type="text" name="text" placeholder="Name">
+                            <input type="text" name="text" placeholder="Nama">
                             <input type="email" name="email" placeholder="Email">
                             <button type="submit" class="btn w-100">Subscribe</button>
                         </form>
