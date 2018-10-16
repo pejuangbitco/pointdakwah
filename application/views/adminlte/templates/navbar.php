@@ -5,11 +5,11 @@
   <header class="main-header">
 
     <!-- Logo -->
-    <a href="index2.html" class="logo">
+    <a href="<?= base_url() ?>" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>A</b>LT</span>
+      <span class="logo-mini" style="background: #809fff;"><b style="color: yellow;">P</b><span style="color: green;">D</span></span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg">Dashboard</span>
+      <span class="logo-lg" style="text-decoration: underline;"><span style="background-color: #809fff;color: yellow;">Point</span><span style="background-color: #809fff;color: green;">Dakwah</span></span>
     </a>
 
     <!-- Header Navbar -->
@@ -26,22 +26,22 @@
             <!-- Menu Toggle Button -->
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
               <!-- The user image in the navbar-->
-              <img src="<?= base_url('assets/adminlte/') ?>dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
+              <img src="<?= base_url('assets/newspaper/') ?>img/bg-img/33.jpg" class="user-image" alt="User Image">
               <!-- hidden-xs hides the username on small devices so only the image appears. -->
-              <span class="hidden-xs">Alexander Pierce</span>
+              <span class="hidden-xs">Khabib Nurmagemodov</span>
             </a>
             <ul class="dropdown-menu">
               <!-- The user image in the menu -->
               <li class="user-header">
-                <img src="<?= base_url('assets/adminlte/') ?>dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                <img src="<?= base_url('assets/newspaper/') ?>img/bg-img/33.jpg" class="img-circle" alt="User Image">
 
                 <p>
-                  Alexander Pierce - Web Developer
-                  <small>Member since Nov. 2012</small>
+                  Khabib Nurmagemodov
+                  <small>Member since Nov. 2018</small>
                 </p>
               </li>
               <!-- Menu Body -->
-              <li class="user-body">
+              <!-- <li class="user-body">
                 <div class="row">
                   <div class="col-xs-4 text-center">
                     <a href="#">Followers</a>
@@ -53,13 +53,11 @@
                     <a href="#">Friends</a>
                   </div>
                 </div>
-                <!-- /.row -->
-              </li>
+                 /.row
+              </li> -->
               <!-- Menu Footer-->
               <li class="user-footer">
-                <div class="pull-left">
-                  <a href="#" class="btn btn-default btn-flat">Profile</a>
-                </div>
+                
                 <div class="pull-right">
                   <a href="#" class="btn btn-default btn-flat">Sign out</a>
                 </div>
@@ -67,8 +65,11 @@
             </ul>
           </li>
           <!-- Control Sidebar Toggle Button -->
-          <li>
+          <!-- <li>
             <a href="#" data-toggle="control-sidebar"><i class="fa fa-gears"></i></a>
+          </li> -->
+          <li>
+            <a href="<?= base_url() ?>"><span class="fa fa-home"></span></a>
           </li>
         </ul>
       </div>

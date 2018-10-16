@@ -6,10 +6,13 @@
       <!-- Sidebar user panel (optional) -->
       <div class="user-panel">
         <div class="pull-left image">
-          <img src="<?= base_url('assets/adminlte/') ?>dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+          <img src="<?= base_url('assets/newspaper/') ?>img/bg-img/33.jpg" class="img-circle" alt="User Image">
         </div>
         <div class="pull-left info">
-          <p>Alexander Pierce</p>
+          <div>
+          <p>Khabib Nurmagemodov</p>  
+          </div>
+          
           <!-- Status -->
           <!-- <a href="#"><i class="fa fa-circle text-success"></i> Online</a> -->
         </div>
@@ -19,11 +22,12 @@
       <ul class="sidebar-menu" data-widget="tree">
         <!-- <li class="header">HEADER</li> -->
         <!-- Optionally, you can add icons to the links -->
-        <li class="active"><a href="#"><i class="fa fa-home"></i> <span>Dashboard</span></a></li>
-        <li><a href="#"><i class="fa fa-user"></i> <span>Profile</span></a></li>
-        <li><a href="#"><i class="fa fa-users"></i> <span>Point</span></a></li>
-        <li><a href="#"><i class="fa fa-users"></i> <span>Reward</span></a></li>
-        <li><a href="#"><i class="fa fa-users"></i> <span>Referral</span></a></li>
+        <li><a href="<?= base_url('dashboard') ?>"><i class="fa fa-dashboard"></i> <span>Dashboard</span></a></li>
+        <li><a href="<?= base_url('dashboard/article') ?>"><i class="fa fa-edit"></i> <span>Article</span></a></li>
+        <li><a href="<?= base_url('dashboard/profile') ?>"><i class="fa fa-user"></i> <span>Profile</span></a></li>
+        <li><a href="<?= base_url('dashboard/point') ?>"><i class="fa fa-diamond"></i> <span>Point</span></a></li>
+        <li><a href="<?= base_url('dashboard/reward') ?>"><i class="fa fa-gift"></i> <span>Reward</span></a></li>
+        <li><a href="<?= base_url('dashboard/referral') ?>"><i class="fa fa-group"></i> <span>Referral</span></a></li>
         
         <!-- <li class="treeview">
           <a href="#"><i class="fa fa-link"></i> <span>Multilevel</span>
