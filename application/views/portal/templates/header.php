@@ -16,5 +16,6 @@
 
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="<?= base_url('assets/newspaper/') ?>style.css">
+    <script src="<?= base_url('assets/newspaper/js/jquery/jquery-3.3.1.min.js');?>"></script>
 
 </head>

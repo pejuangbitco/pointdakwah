@@ -38,20 +38,30 @@
                                         </div>
                                         <hr>
                                         <div>
-                                            <form class="form" action="#">
-                                                Hikmah yang dapat dari artikel diatas adalah?<br>
-                                                <input type="radio" name="x">Tetap tawakal dimanapun berada <br>
-                                                <input type="radio" name="x">Kita harus patuh pada setiap perintah ibu <br>
-                                                <input class="btn btn-primary" type="submit" name="jawab" value="jawab">
-                                            </form>
-                                        </div>
                                         <hr>
                                         <!-- Post Like & Post Comment -->
-                                        <!-- <div class="d-flex align-items-center post-like--comments">
+                                        <div class="d-flex align-items-center post-like--comments">
                                             <a href="#" class="post-like"><img src="<?= base_url();?>assets/newspaper/img/core-img/like.png" alt=""> <span>392</span></a>
                                             <a href="#" class="post-comment"><img src="<?= base_url();?>assets/newspaper/img/core-img/chat.png" alt=""> <span>10</span></a>
-                                        </div> -->
+                                        </div>
                                     </div>
+                                </div>
+                                <div class="container">
+                                    <h5>Share</h5>
+                                    <button class="btn btn-lg fa-facebook fa"></button>
+                                    <button class="btn btn-lg fa fa-twitter"></button>
+                                    <button class="btn btn-lg fa fa-google-plus"></button>
+                                    <button class="btn btn-lg fa fa-instagram"></button>
+                                    <button class="btn btn-lg fa fa-lastfm"></button>
+                                </div><br>
+                                <div class="container" id="question">
+                                    <form class="form-control" action="#">
+                                        Hikmah yang dapat dari artikel diatas adalah?<br>
+                                        <input type="radio" name="x">Tetap tawakal dimanapun berada <br>
+                                        <input type="radio" name="y">Kita harus patuh pada setiap perintah ibu <br>
+                                    </form>
+                                    <button class="btn btn-primary" id="jawab">Jawab</button>
+                                </div>
                                 </div>
                             </div>
                         </div>
@@ -181,3 +191,12 @@
             </div>
         </div>
     </div>
+
+    <script>
+        $(document).ready(function() {
+            $('#jawab').click(function() {
+                $('#question').hide('slow');
+                $('#question').replaceWith("<h2 style='color: green; text-align: left;'>Terima kasih telah menjawab. Poinmu telah ditambahakan</h2>");
+            });
+        });
+    </script>
