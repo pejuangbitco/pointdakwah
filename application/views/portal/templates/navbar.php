@@ -17,8 +17,11 @@
                             <div class="login-search-area d-flex align-items-center">
                                 <!-- Login -->
                                 <div class="login d-flex">
-                                    <a href="#">Login</a>
-                                    <a href="#">Register</a>
+                                    <?php if(isset($this->session->userdata('username'))) { ?>
+                                        <a href="<?= base_url('dashboard') ?>"><b>Dashboard</b></a>
+                                    <?php else { ?>
+                                        <a href="<?= base_url('login') ?>"><b>Login / Register</b></a>                             
+                                    <?php } ?>
                                 </div>
                                 <!-- Search Form -->
                                 <div class="search-form">

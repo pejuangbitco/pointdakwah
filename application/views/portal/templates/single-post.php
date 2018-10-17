@@ -19,7 +19,7 @@
                                     <p class="post-author">By <a href="#">Muhammad Jaihan Syah</a></p>
                                     <p style="text-align: justify">
                                     <p>Nama Khabib Nurmagomedov tengah menjadi perbincangan seantero dunia usai mengalahkan Conor McGregor lewat submission pada ronde keempat dalam pertarungan gelar juara dunia kelas ringan UFC di Las Vegas, Amerika Serikat, Ahad (7/10) siang WIB. Dengan kemenangan itu Khabib memperpanjang rekor selalu menang dalam 27 laga pada ajang tarung bebas.</p>
-                                    <iframe src="<?= base_url();?>assets/newspaper/videos/Khabib.MP4" frameborder="">Video</iframe>
+                                    <!-- <iframe src="<?= base_url();?>assets/newspaper/videos/Khabib.MP4" frameborder="">Video</iframe> -->
                                     <p>Namun di balik kegarangannya di atas ring, pria asal Dagestan, Rusia itu merupakan pribadi yang santun dan pemeluk agama Islam yang taat. Aktivitas sehari-harinya, bahkan di atas ring dia tidak ingin lepas dari nilai-nilai Islam. Khabib selalu bangga dengan agamanya dan tak sungkan menunjukkan identitas keislamannya. Maka tak heran setiap kali merebut gelar juara dari lawannya, kalimat pertama yang keluar dari mulut Khabib adalah ucapan Alhamdulillah.</p>
                                     <p>“Pertama yang harus katakan adalah Alhamdulillah. Tanpa Allah, kita ini bukan siapa-siapa. Tanpa Tuhan kita tidak bisa mendapatkan apa-apa,” tegas Khabib, seperti dikutip dari kanal Youtube resmi UFC.</p>
                                     <p>Tidak hanya itu, dakwah yang dilakukan oleh petarung berjuluk the Eagle itu dikagumi oleh masyarakat dunia. Salah satunya adalah potongan video di Instagram yang memperlihatkan Khabib meminta seorang remaja membacakan ayat suci Alquran. Dalam video Khabib berada di dalam mobil, sementara anak kecil berada di luar. Anak lelaki itu pun membacakan surah Al-Waqiah dan Khabib tampak menikmati bacaan sang anak yang bagus.</p>
@@ -36,12 +36,21 @@
                                                 <li><a href="#">millennial</a></li>
                                             </ul>
                                         </div>
-
+                                        <hr>
+                                        <div>
+                                            <form class="form" action="#">
+                                                Hikmah yang dapat dari artikel diatas adalah?<br>
+                                                <input type="radio" name="x">Tetap tawakal dimanapun berada <br>
+                                                <input type="radio" name="x">Kita harus patuh pada setiap perintah ibu <br>
+                                                <input class="btn btn-primary" type="submit" name="jawab" value="jawab">
+                                            </form>
+                                        </div>
+                                        <hr>
                                         <!-- Post Like & Post Comment -->
-                                        <div class="d-flex align-items-center post-like--comments">
+                                        <!-- <div class="d-flex align-items-center post-like--comments">
                                             <a href="#" class="post-like"><img src="<?= base_url();?>assets/newspaper/img/core-img/like.png" alt=""> <span>392</span></a>
                                             <a href="#" class="post-comment"><img src="<?= base_url();?>assets/newspaper/img/core-img/chat.png" alt=""> <span>10</span></a>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>

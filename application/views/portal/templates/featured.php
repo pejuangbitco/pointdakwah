@@ -9,7 +9,7 @@
                         <div class="col-12 col-lg-7">
                             <div class="single-blog-post featured-post">
                                 <div class="post-thumb">
-                                    <a href="#"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/33.jpg" alt=""></a>
+                                    <a href="<?= base_url('home/postingan')?>"><img src="<?= base_url('assets/newspaper/') ?>img/bg-img/33.jpg" alt=""></a>
                                 </div>
                                 <div class="post-data">
                                     <a href="#" class="post-catagory">Dakwah</a>
