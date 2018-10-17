@@ -17,9 +17,9 @@
                             <div class="login-search-area d-flex align-items-center">
                                 <!-- Login -->
                                 <div class="login d-flex">
-                                    <?php if(isset($this->session->userdata('username'))) { ?>
+                                    <?php $sess = $this->session->userdata('username'); if(isset($sess) && !empty($sess)) { ?>
                                         <a href="<?= base_url('dashboard') ?>"><b>Dashboard</b></a>
-                                    <?php else { ?>
+                                    <?php } else { ?>
                                         <a href="<?= base_url('login') ?>"><b>Login / Register</b></a>                             
                                     <?php } ?>
                                 </div>
